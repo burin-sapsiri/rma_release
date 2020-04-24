@@ -1,0 +1,5 @@
+Master firmware (HMI <--> Master : USB CDC without RR2F)
+    Sometime, the message between Master and HMI lost.
+
+Slave as Master firmware (HMI <--> Master : CANBUS without RR2F)
+    All work fine.
